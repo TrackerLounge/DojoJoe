@@ -39,6 +39,9 @@ Dojo Joe cost ~$100 to make
 * ligher to fuse the ends of ropes to prevent fraying
 * magic markert to mark parts
 * vice or clamp to hold parts while sawing (if available)
+* metal file or sandpaper to debur/sand ends of pvc
+* flathead screw driver to ream out dill hole burs
+
 
 # Construction Materials
 * 3 in. long 1/2 in. thick lag screw hook to attach to ceiling.
