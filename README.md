@@ -2,7 +2,7 @@
 Tai Chi Chin Na Training Dummy
 
 # Introduction
-By way of background, I am hobbiest. I initially learned a number of Tai Chi forms(two forms of Wu Style, and one Yang Style) from books as a form of light excersise. I was interested in exploring the application and meaning of the forms. I have no live experience. I live in a remote area, where sparing partners are rare.
+By way of background, I am hobbiest. I initially learned a number of Tai Chi forms(two forms of Wu Style, and one Yang Style) from books, as a form of light excersise. I was interested in exploring the application and meaning of the forms. I have no live experience. I live in a remote area, where sparring partners are rare.
 
 I eventually found a book called Tai Chi Chin Na by Dr. Yang, Jwing-Ming PhD, ISBN-13 : 978-1-59439-307-5, ISBN-10: 1-59439-307-9 which outlines some of the joint lock applications found the Tai Chi Yang Style Form.
 
