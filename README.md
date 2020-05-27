@@ -60,6 +60,8 @@ I tried to replicate my own bone structure. I measured my arm to get the length 
 # Contruction process
 This was a trial and error process. I wanted joints that naturally wanted to be in a normal human posture and would spring back to that posture when no force was being applied. I also wanted to create joints that resisted moving in unnature motions. This required experimenting with how to rig elastic and rope within the bone structure. In some cases I had to redrill holes in new places to get the joints to flex and bend more naturally. Most of the techniques I was learning focused on the fingers, wrists, elbows and shoulders. As a result, this dummy has better joint behavior in these areas. 
 
+It was also very important that I be able to bring the dummy to the ground and have it return to standing position on it's own (or reset) automatically after I released it. It took some trial and error to figure out the right amount of static and elastic line to use to suspend the dummy from the ceiling to accomplish this goal.
+
 # Ceiling Mounting
 I orignially built this for a small 8 x 8 ft apartment space. Ideally the ceiling mount would be placed 4 ft from any wall as the dummy's arms can fly out wide while performing certain joint locks and hit walls or you. However, I have mounted it closer to the wall at times (e.g. 2.5 feet away from the wall). This works but is less than ideal. It can make it hard to practice moving behind the dummy and can make noise or damage the wall if a pvc arm hits the wall.
 
