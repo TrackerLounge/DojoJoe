@@ -33,11 +33,11 @@ Dojo Joe cost ~$100 to make
 * 2 in. PVC Pipe for bones
 * 1/4 in. PVC for the core of the head to allow rope to pass thru
 * 1/4 in plyeurithan rope for part of the line supporting Dojo Joe from the ceiling. This part passes thru the pully
-* 1/4 in. elastic cord for joints and part of line to support the sparring partner from the ceiling
+* 1/4 in. elastic cord for joints and part of line to support the sparring partner from the ceiling. 
+  * Note: I originally used 100 lb zip ties to attach the joints. However, I found that I would break a joint after 1 to 10 iterations of a joint lock. 
 * High strength magnets (to allow fingers to grasp my wrist)
 * Peanut Butter Plastic container for the head
 * Spray foam (I had some extra outdoor spray foam from a previous project)
-* Note: I originally used 100 lb zip ties to attach the joints. However, I found that I would break a joint after 1 to 10 iterations of a joint lock. 
 * 2 Denim bags. I place one bag on each foot and insert a 5 pound weight in each bag to keep Dojo Joe's feet from flying about.
 * Free Anchor weight to attach the end of the line to the ground. Hopefully, the weight will slide on the ground before the ceiling bolt fails.
 
