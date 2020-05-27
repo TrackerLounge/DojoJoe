@@ -20,7 +20,7 @@ Many martial arts have similar joint locks and may find some use for this traini
 Note of warning: Be sure that your lines and anchors are firmly attached. Failure to achor the lag screw firmly into a ceiling joist could result in serious injury. Proceed at your own risk. 
 
 Click Here for Youtube Video:
-[![Alt text](https://github.com/TrackerLounge/DojoJoe/blob/master/DojoJoeIntroMidSize.png)](https://www.youtube.com/watch?v=8jnbJ8WHzhs)
+[![Alt text](https://github.com/TrackerLounge/DojoJoe/blob/master/images/DojoJoeIntroMidSize.png)](https://www.youtube.com/watch?v=8jnbJ8WHzhs)
 
 # Price
 Dojo Joe cost ~$100 to make
