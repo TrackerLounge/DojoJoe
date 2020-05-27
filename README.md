@@ -15,7 +15,9 @@ This sparing dummy allows me to practice route movements over and over again, wi
 
 Over the course of several years, I practiced with this sparing dummy (which I call Dojo Joe) for 30-60 minutes a day. My typical routine was to perform each technique in the book 30 times right handed and then left handed. I memorized the book for a time and became comfortable with the movements. The movements became instinctual. However, this type of training is without pressure testing. As such I considered myself a novice.
 
-Many martial arts have similar joint locks and may find some use for this training tool. In this page, I'll describe the dummy, it's construction and use. I hope someone will find it fun and useful.
+Many martial arts have similar joint locks and may find some use for this training tool. In this page, I'll describe the dummy, it's construction and use. I hope someone will find it fun and useful. 
+
+Note of warning: Be sure that your lines and anchors are firmly attached. Failure to achor the lag screen firmly into a ceiling joist could result in serious injury. Proceed at your own risk. 
 
 This was originally built while living in an apartment with 8 foot high ceilings. I used common hand tools and my kitchen table as a vise. This lead to crude and slow construction. The line length had to be modified to fit a higher ceiling in my new place.
 
@@ -36,6 +38,14 @@ Dojo Joe cost ~$100 to make
 * Peanut Butter Plastic container for the head
 * Spray foam (I had some extra outdoor spray foam from a previous project)
 * Note: I originally used 100 lb zip ties to attach the joints. However, I found that I would break a joint after 1 to 10 iterations of a joint lock. 
+* 2 Denim bags. I place one bag on each foot and insert a 5 pound weight in each bag to keep Dojo Joe's feet from flying about.
+* Free Anchor weight to attach the end of the line to the ground. Hopefully, the weight will slide on the ground before the ceiling bolt fails.
 
 # Size / Scale
 I tried to replicate my own bone structure. I measured my arm to get the length of the PVC pipes to create the ulna and radius and repeated the process for each major bone of the body. I did not create every bone of the body. For example, I did not create ribs. I only have two fingers and a thumb. These simplifications
+
+# Ceiling Mounting
+I orignially built this for a small 8 x 8 ft apartment space. Ideally the ceiling mount would be placed 4 ft from any wall as the dummy's arms can fly out wide while preforming certain joint locks and hit walls or you. However, I have mounted it closer to the wall at times (e.g. 2.5 feet away from way). This works but is less than ideal. It can make it hard to practice moving behind the dummy and can make noise or damage the wall if a pvc arm hits the wall.
+
+# Noise
+The pulley can make a squeeking noise. A little oil can reduce the noise. The rope, running thru the pulley can also make noise. If you are living in a apartment complex, the neighbors may hear this and ask you to avoid practice during sleeping hours.
