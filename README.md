@@ -40,7 +40,7 @@ Dojo Joe cost ~$100 to make
 * 1/4 in. metal pully.
 * 2 in. PVC Pipe for bones
 * 1/4 in. PVC for the core of the head to allow rope to pass thru
-* 1/4 in plyeurithan rope for part of the line supporting Dojo Joe from the ceiling. This part passes thru the pully
+* 1/4 in. polypropylene braided rope for part of the line supporting Dojo Joe from the ceiling. This part passes thru the pully
 * 1/4 in. elastic cord for joints and part of line to support the sparring partner from the ceiling. 
   * Note: I originally used 100 lb zip ties to attach the joints. However, I found that I would break a joint after 1 to 10 iterations of a joint lock. 
 * High strength magnets (to allow fingers to grasp my wrist)
@@ -64,6 +64,10 @@ It was also very important that I be able to bring the dummy to the ground and h
 This was originally built while living in an apartment with 8 foot high ceilings. I used common hand tools and my kitchen table as a vise. This lead to crude and slow construction. The line length had to be modified to fit a higher ceiling in my new place.
 
 # Elastic and Static Rigging of Bone Structure
+I used black parachute cord to hold joints together loosely. There were added to keep the limb in place when or if the joint failed.
+The black parachute cord was also used as moving anchor points, for static and elastic line to pull against.
+
+I used 1/4 in. polypropylene braided rope within the chest area. The color helped be differentiate pulling forces as I worked out how to rig the elastic and static lines holding the PVC pipe bones together. It is a bit of a squirrel's nest of lines, evolving thru trial and error. More improvements could be done.
 
 <table>
 <thead>
@@ -79,6 +83,8 @@ This was originally built while living in an apartment with 8 foot high ceilings
 </tr>
 </tbody>
 </table>
+
+The fingers have deaminum magnets epoxyied onto the fingertips to allow Dojo Joe to grasp my wrist or arm in a breakable grip. In the hand, the paracord is used to retain a metal nut. This nut is a spacer to adjust the grasp of the fingers. The paracord allows the nut to hang out of the way when not needed.
 
 <table>
 <thead>
