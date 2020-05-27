@@ -42,10 +42,10 @@ Dojo Joe cost ~$100 to make
 * Free Anchor weight to attach the end of the line to the ground. Hopefully, the weight will slide on the ground before the ceiling bolt fails.
 
 # Size / Scale
-I tried to replicate my own bone structure. I measured my arm to get the length of the PVC pipes to create the ulna and radius and repeated the process for each major bone of the body. I did not create every bone of the body. For example, I did not create ribs. I only have two fingers and a thumb. These simplifications
+I tried to replicate my own bone structure. I measured my arm to get the length of the PVC pipes to create the ulna and radius and repeated the process for each major bone of the body. I did not create every bone of the body. For example, I did not create ribs. I only have two fingers and a thumb. These simplifications reduced cost and time of construction. The dummy is simple enough that these could be added at a later date as needed.
 
 # Ceiling Mounting
-I orignially built this for a small 8 x 8 ft apartment space. Ideally the ceiling mount would be placed 4 ft from any wall as the dummy's arms can fly out wide while preforming certain joint locks and hit walls or you. However, I have mounted it closer to the wall at times (e.g. 2.5 feet away from way). This works but is less than ideal. It can make it hard to practice moving behind the dummy and can make noise or damage the wall if a pvc arm hits the wall.
+I orignially built this for a small 8 x 8 ft apartment space. Ideally the ceiling mount would be placed 4 ft from any wall as the dummy's arms can fly out wide while performing certain joint locks and hit walls or you. However, I have mounted it closer to the wall at times (e.g. 2.5 feet away from the wall). This works but is less than ideal. It can make it hard to practice moving behind the dummy and can make noise or damage the wall if a pvc arm hits the wall.
 
 # Noise
-The pulley can make a squeeking noise. A little oil can reduce the noise. The rope, running thru the pulley can also make noise. If you are living in a apartment complex, the neighbors may hear this and ask you to avoid practice during sleeping hours.
+The pulley can make a squeeking noise. A little oil can reduce the noise. The rope, running thru the pulley can also make noise. If you are living in an apartment complex, the neighbors may hear this and ask you to avoid practice during sleeping hours.
