@@ -251,5 +251,7 @@ I had to play around with the proportion of static line to elastic line in the o
 </tbody>
 </table>
 
+<img src='/images/DojoJoeSupportLineLengths.png' width=800>
+
 # Noise
 The pulley can make a squeeking noise. A little oil can reduce the noise. The rope, running thru the pulley can also make noise. If you are living in an apartment complex, the neighbors may hear this and ask you to avoid practice during sleeping hours.
