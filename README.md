@@ -26,16 +26,16 @@ Click Here for Youtube Video:
 Dojo Joe cost ~$100 to make
 
 # Construction Materials
-3 in. long 1/2 in. thick lag screw hook to attach to ceiling.
-1/4 in. metal pully.
-2 in. PVC Pipe for bones
-1/4 in. PVC for the core of the head to allow rope to pass thru
-1/4 in plyeurithan rope for part of the line supporting Dojo Joe from the ceiling. This part passes thru the pully
-1/4 in. elastic cord for joints and part of line to support the sparring partner from the ceiling
-High strength magnets (to allow fingers to grasp my wrist)
-Peanut Butter Plastic container for the head
-Spray foam (I had some extra outdoor spray foam from a previous project)
-Note: I originally used 100 lb zip ties to attach the joints. However, I found that I would break a joint after 1 to 10 iterations of a joint lock. 
+* 3 in. long 1/2 in. thick lag screw hook to attach to ceiling.
+* 1/4 in. metal pully.
+* 2 in. PVC Pipe for bones
+* 1/4 in. PVC for the core of the head to allow rope to pass thru
+* 1/4 in plyeurithan rope for part of the line supporting Dojo Joe from the ceiling. This part passes thru the pully
+* 1/4 in. elastic cord for joints and part of line to support the sparring partner from the ceiling
+* High strength magnets (to allow fingers to grasp my wrist)
+* Peanut Butter Plastic container for the head
+* Spray foam (I had some extra outdoor spray foam from a previous project)
+* Note: I originally used 100 lb zip ties to attach the joints. However, I found that I would break a joint after 1 to 10 iterations of a joint lock. 
 
 # Size / Scale
 I tried to replicate my own bone structure. I measured my arm to get the length of the PVC pipes to create the ulna and radius and repeated the process for each major bone of the body. I did not create every bone of the body. For example, I did not create ribs. I only have two fingers and a thumb. These simplifications
