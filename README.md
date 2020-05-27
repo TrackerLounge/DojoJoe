@@ -66,6 +66,8 @@ This was originally built while living in an apartment with 8 foot high ceilings
 # Ceiling Mounting
 I orignially built this for a small 8 x 8 ft apartment space. Ideally the ceiling mount would be placed 4 ft from any wall as the dummy's arms can fly out wide while performing certain joint locks and hit walls or you. However, I have mounted it closer to the wall at times (e.g. 2.5 feet away from the wall). This works but is less than ideal. It can make it hard to practice moving behind the dummy and can make noise or damage the wall if a pvc arm hits the wall.
 
+I had to play around with the proportion of static line to elastic line in the overall length of line suspending Dojo Joe from the ceiling. Too much elastic line would make Dojo Joe too compliant and would result in it not standing back up after being taken down to the ground. Too much static line would make Dojo Joe too resistant and would prevent Dojo Joe from being able to be taken to the ground in a joint lock.
+
 <table>
 <thead>
 <tr>
