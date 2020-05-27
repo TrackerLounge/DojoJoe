@@ -17,6 +17,9 @@ Over the course of several years, I practiced with this sparing dummy (which I c
 
 Many martial arts have similar joint locks and may find some use for this training tool. In this page, I'll describe the dummy, it's construction and use. I hope someone will find it fun and useful.
 
+[![Alt text](https://github.com/TrackerLounge/DojoJoe/blob/master/DojoJoeIntro.png)](https://www.youtube.com/watch?v=8jnbJ8WHzhs)
+
+
 <iframe width="560" height="315" 
 src="https://www.youtube.com/embed/8jnbJ8WHzhs" 
 frameborder="0" 
