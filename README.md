@@ -17,7 +17,7 @@ Over the course of several years, I practiced with this sparring dummy (which I 
 
 Many martial arts have similar joint locks and may find some use for this training tool. In this page, I'll describe the dummy, it's construction and use. I hope someone will find it fun and useful. 
 
-Note of warning: Be sure that your lines and anchors are firmly attached. Failure to achor the lag screen firmly into a ceiling joist could result in serious injury. Proceed at your own risk. 
+Note of warning: Be sure that your lines and anchors are firmly attached. Failure to achor the lag screw firmly into a ceiling joist could result in serious injury. Proceed at your own risk. 
 
 This was originally built while living in an apartment with 8 foot high ceilings. I used common hand tools and my kitchen table as a vise. This lead to crude and slow construction. The line length had to be modified to fit a higher ceiling in my new place.
 
