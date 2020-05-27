@@ -1,4 +1,4 @@
-# DojoJoe
+# Dojo Joe
 Tai Chi Chin Na Training Dummy
 
 # Introduction
