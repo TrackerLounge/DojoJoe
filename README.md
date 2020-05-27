@@ -15,5 +15,6 @@ This sparing dummy allows me to practice route movements over and over again, wi
 
 Over the course of several years, I practiced with this sparing dummy (which I call Dojo Joe) for 30-60 minutes a day. My typical routine was to perform each technique in the book 30 times right handed and then left handed. I memorized the book for a time and became comfortable with the movements. The movements became instinctual. However, this type of training is without pressure testing. As such I considered myself a novice.
 
-In this page, I'll describe the dummy, it's construction and use. I hope someone will find it fun and useful.
+Many martial arts have similar joint locks and may find some use for this training tool. In this page, I'll describe the dummy, it's construction and use. I hope someone will find it fun and useful.
+
 
