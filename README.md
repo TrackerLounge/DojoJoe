@@ -172,7 +172,6 @@ I used 1/4 in. polypropylene braided rope within the chest area. The color helpe
 <table>
 <thead>
 <tr>
-<th>Elastic and Static Rigging of Bone Structure</th>
 <th>Close-up of Elastic and Static Rigging of Bone Structure</th>
 <th>Close-up of Elastic and Static Rigging of Bone Structure From Back</th>
 </tr>
