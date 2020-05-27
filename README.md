@@ -35,14 +35,14 @@ Dojo Joe cost ~$100 to make
 # Tools
 * hack saw
 * measuring tape
-* coordless drill and drill bits 
+* coordless drill and 5/16 in. drill bits 
 * scissors
 * electrical tape to hold elastic cord while fusing
 * ligher to fuse the ends of ropes to prevent fraying
 * magic markert to mark parts
 * vice or clamp to hold parts while sawing (if available)
 * metal file or sandpaper to debur/sand ends of pvc
-* flathead screw driver to ream out dill hole burs
+* flathead screw driver to ream out dill hole burs and force elastic thru drilled holes.
 
 
 # Construction Materials
@@ -51,9 +51,10 @@ Dojo Joe cost ~$100 to make
 * 3/4 in. and 1/2 in. PVC Pipe for bones
 * 1/4 in. PVC for the core of the head to allow rope to pass thru
 * 1/4 in. polypropylene braided rope for part of the line supporting Dojo Joe from the ceiling. This part passes thru the pully
-* 1/4 in. elastic cord for joints and part of line to support the sparring partner from the ceiling. 
-  * Note: I originally used 100 lb zip ties to attach the joints. However, I found that I would break a joint after 1 to 10 iterations of a joint lock. 
-* High strength magnets (to allow fingers to grasp my wrist)
+* 3/8 in. elastic shock cord running from pelvic bone, thru spine, shoulders, neck and head.
+* 1/4 in. elastic cord for joints and part of line to support the sparring partner from the ceiling to a movable weight on the ground. 
+  * Note: I originally used 100 lb zip ties to attach the joints. However, I found that I would break (sheer or tear) the zip tie joint after 1 to 10 iterations practicing a joint lock. 
+* High strength deaminum magnets (to allow fingers to grasp my wrist). Each magnet is about the diameter of a penny and about 2-3 penny's thick or 3/4 in. by 1/8 in.
 * epoxy to attach magnets to end of fingers
 * para-cord to create fingers.
 * 1 in. metal nut (one for each hand). I use the metal nut as a spacer between the magnets when I want to practice upper arm grabs and counters. I don't use the nut when I want the dummy's grip to be smaller (e.g. when grasping my wrist)
