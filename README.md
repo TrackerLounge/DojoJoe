@@ -25,6 +25,17 @@ autoplay; encrypted-media;
 gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
 
+https://github.com/TrackerLounge/DojoJoe/blob/master/DojoJoeIntro.png
+
 <div align="center">
   <a href="https://www.youtube.com/embed/8jnbJ8WHzhs"></a>
 </div>
+
+<div align="center">
+      <a href="https://www.youtube.com/embed/8jnbJ8WHzhs">
+     <img 
+      src="/DojoJoe/blob/master/DojoJoeIntro.png" 
+      alt="Intro to Dojo Joe" 
+      style="width:100%;">
+      </a>
+    </div>
