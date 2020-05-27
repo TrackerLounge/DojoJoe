@@ -48,7 +48,7 @@ Dojo Joe cost ~$100 to make
 # Construction Materials
 * 3 in. long 1/2 in. thick lag screw hook to attach to ceiling.
 * 1/4 in. metal pully.
-* 2 in. PVC Pipe for bones
+* 3/4 in. and 1/2 in. PVC Pipe for bones
 * 1/4 in. PVC for the core of the head to allow rope to pass thru
 * 1/4 in. polypropylene braided rope for part of the line supporting Dojo Joe from the ceiling. This part passes thru the pully
 * 1/4 in. elastic cord for joints and part of line to support the sparring partner from the ceiling. 
