@@ -5,6 +5,11 @@ Tai Chi Chin Na Training Dummy
 By way of background, I am hobbiest. I initially learned a number of Tai Chi forms(two forms of Wu Style, and one Yang Style) from books, as a form of light excersise. I was interested in exploring the application and meaning of the forms. I have no live experience. I live in a remote area, where sparring partners are rare.
 
 I eventually found a book called Tai Chi Chin Na - The Seizing Art of Tai Chie Chuan by Dr. Yang, Jwing-Ming PhD, ISBN-13 : 978-1-59439-307-5, ISBN-10: 1-59439-307-9 which outlines some of the joint lock applications found the Tai Chi Yang Style Form.
+I have no affiliation with Dr. Yang, Jwing-Ming. I have enjoyed his book and would recommend it.
+
+[![Alt text](https://github.com/TrackerLounge/DojoJoe/blob/master/images/DrYangYouTubeIntro.png)](https://www.youtube.com/watch?v=lf94qpZFOuQ)
+
+[![Alt text](https://github.com/TrackerLounge/DojoJoe/blob/master/images/DrYangYouTubeReverseElbowWrap.png)](https://www.youtube.com/watch?v=kp2jWeaKrqI)
 
 I wanted practice these applications as time allowed early in the morning before work or late at night after work. 
 
