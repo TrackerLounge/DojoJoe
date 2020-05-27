@@ -160,13 +160,27 @@ I used 1/4 in. polypropylene braided rope within the chest area. The color helpe
 <thead>
 <tr>
 <th>Elastic and Static Rigging of Bone Structure</th>
-<th>Close-up of Elastic and Static Rigging of Bone Structure</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><img src='/images/elasticAndStaticRiggingOfBoneStructure.png' width=400></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th>Elastic and Static Rigging of Bone Structure</th>
+<th>Close-up of Elastic and Static Rigging of Bone Structure</th>
+<th>Close-up of Elastic and Static Rigging of Bone Structure From Back</th>
+</tr>
+</thead>
+<tbody>
+<tr>
 <td><img src='/images/elasticAndStaticRiggingOfBoneStructureCloseup.png' width=400></td>
+<td><img src='/images/elasticAndStaticRiggingOfBoneStructureCloseupFromBack.png' width=400></td>
 </tr>
 </tbody>
 </table>
@@ -179,13 +193,41 @@ An elatic line runs from each upper arm (hole was placed 1/3 of the way down the
 <thead>
 <tr>
 <th>Elastic and Static Rigging of Arm</th>
-<th>Elastic and Static Rigging of Leg</th>
+<th>Elastic and Static Rigging of Arm from Top View</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><img src='/images/elasticAndStaticRiggingOfArm.png' width=400></td>
+<td><img src='/images/armAndHandTopView.png' width=400></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th>Elastic and Static Rigging of Leg</th>
+</tr>
+</thead>
+<tbody>
+<tr>
 <td><img src='/images/elasticAndStaticRiggingOfLegs.png' width=400></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th>Foot and Ankle</th>
+<th>Foot and Ankle from Top</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src='/images/foot.png' width=400></td>
+<td><img src='/images/footFromTopViewWithCarrageBoltExposed.png' width=400></td>
 </tr>
 </tbody>
 </table>
