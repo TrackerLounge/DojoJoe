@@ -57,8 +57,8 @@ Dojo Joe cost ~$100 to make
 * 1 in. metal nut (one for each hand). I use the metal nut as a spacer between the magnets when I want to practice upper arm grabs and counters. I don't use the nut when I want the dummy's grip to be smaller (e.g. when grasping my wrist)
 * Peanut Butter Plastic container for the head
 * Spray foam to fill head and allow it to take a beating. (I had some extra outdoor spray foam from a previous project). You can leave it empty but it tends to be crushed fairly quickly (e.g in head locks, neck and spine locks, and head strikes while applying leverage on an arm lock).
-* Shirt and pants to prevent pvc joints from pinching/scratching/cutting me. This can be quite painful.
-* 2 Denim bags. I place one bag on each foot and insert a 5 pound weight in each bag to keep Dojo Joe's feet from flying about.
+* Shirt and pants to prevent pvc joints from pinching/scratching/cutting me. This can be quite painful. Also helps dummy move correctly
+* 2 Denim bags. I place one bag on each foot and insert a 5 pound weight in each bag to keep Dojo Joe's feet from flying about. Each bag has a paracord draw string and toggle cord stopper. The drawstring allows me to quickly attach the weighted bags to the dummy's feet during setup.
 * Free Anchor weight to attach the end of the line to the ground. Hopefully, the weight will slide on the ground before the ceiling bolt fails.
 * Each foot has two pipes making up the foot. Each foot pipe has a carage bolt and nut passing thru the sole of the foot to the top of the foot to create a small threading knob on the top of the foot. The tibea and fibea bones rest on these bolt thread Knobs to keep them roughly in place around the anckle.
 
