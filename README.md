@@ -62,6 +62,82 @@ Dojo Joe cost ~$100 to make
 # Size / Scale
 I tried to replicate my own bone structure. I measured my arm to get the length of the PVC pipes to create the ulna and radius and repeated the process for each major bone of the body. I did not create every bone of the body. For example, I did not create ribs. I only have two fingers and a thumb. These simplifications reduced cost and time of construction. The dummy is simple enough that these could be added at a later date as needed.
 
+# Dimentions
+<table>
+<thead>
+<tr>
+<th>Body Part</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Feet</td>
+<td>Each foot has 2 pvc pipes that are 3/4 in. diameter and 9 in. in length</td>
+</tr>
+<tr>
+<td>Shin (Tibea / Fibea)</td>
+<td>Each shin has 2 pvc pipes that are 3/4 in. diameter and 18 in. in length</td>
+</tr>
+<tr>
+<td>Femur</td>
+<td>Each femur has 1 pvc pipe that is 3/4 in. diameter and 18 in. in length</td>
+</tr>
+<tr>
+<td>Pelvis</td>
+<td>1 pvc pipe with 3/4 in diameter and 15 in. in length</td>
+</tr>
+<tr>
+<td>Spine</td>
+<td>1 pvc pipe with 3/4 in. diameter and 21 and 1/4 in. length </td>
+</tr>
+<tr>
+<td>Shoulder</td>
+<td>1 pvc pipe with 3/4 in. diameter and 18 and 1/4 in. length </td>
+</tr>
+<tr>
+<td>Neck</td>
+<td>1 pvc pipe with 3/4 in. diameter and 2 and 1/8 in. length</td>
+</tr>
+<tr>
+<td>Upper Arm (Humerus)</td>
+<td>Each humerus has 1 pvc pipe with 3/4 in. diameter and 10 and 1/2 in. length</td>
+</tr>
+<tr>
+<td>Lower Arm (Ulna and Radius)</td>
+<td>Each lower are has 2 pvc pipes with 3/4 in. diameter and 9 and 3/4 in. length</td>
+</tr>
+<tr>
+<td>Palm of Hand</td>
+<td>Each palm has 2 pvc pipes with 3/4 in. diameter and 2 and 3/8 in. length</td>
+</tr>
+<tr>
+<td>Pinky and Ring finger</td>
+<td>Each hand has 1 pvc pipe with 3/4 in. diameter and 2 and 1/2 in. length</td>
+</tr>
+<tr>
+<td>Ponter Finger attached to palm - (Proximal/Middle Phalanges)</td>
+<td>Each hand has 1 pvc pipe with 1/2 in. diameter and 1 and 3/4 in. length </td>
+</tr>
+<tr>
+<td>Ponter Finger Tip - (Distal Phalanges)</td>
+<td>Each hand has 1 pvc pipe with 1/2 in. diameter and 1 and 3/4 in. length. Magnet is epoxied to tip.</td>
+</tr>
+<tr>
+<td>Thumb attached to palm - (Metacarpal)</td>
+<td>Each hand has 1 pvc pipe with 1/2 in. diameter and 2 in. length.</td>
+</tr>
+<tr>
+<td>Thumb middle bone - (Proximal Phalanx)</td>
+<td>Each hand has 1 pvc pipe with 1/2 in. diameter and 1 and 1/8 in. length.</td>
+</tr>
+<tr>
+<td>Thumb tip - (Distal Phalanx)</td>
+<td>Each hand has 1 pvc pipe with 1/2 in. diameter and 1 and 1/2 in. length.</td>
+</tr>
+</tbody>
+</table>
+
 # Contruction process
 This was a trial and error process. I wanted joints that naturally wanted to be in a normal human posture and would spring back to that posture when no force was being applied. I also wanted to create joints that resisted moving in unnature motions. This required experimenting with how to rig elastic and rope within the bone structure. In some cases I had to redrill holes in new places to get the joints to flex and bend more naturally. Most of the techniques I was learning focused on the fingers, wrists, elbows and shoulders. As a result, this dummy has better joint behavior in these areas. 
 
