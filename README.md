@@ -50,7 +50,7 @@ Dojo Joe cost ~$100 to make
 * para-cord to create fingers.
 * 1 in. metal nut (one for each hand). I use the metal nut as a spacer between the magnets when I want to practice upper arm grabs and counters. I don't use the nut when I want the dummy's grip to be smaller (e.g. when grasping my wrist)
 * Peanut Butter Plastic container for the head
-* Spray foam (I had some extra outdoor spray foam from a previous project)
+* Spray foam to fill head and allow it to take a beating. (I had some extra outdoor spray foam from a previous project). You can leave it empty but it tends to be crushed fairly quickly (e.g in head locks, neck and spine locks, and head strikes while applying leverage on an arm lock).
 * Shirt and pants to prevent pvc joints from pinching/scratching/cutting me. This can be quite painful.
 * 2 Denim bags. I place one bag on each foot and insert a 5 pound weight in each bag to keep Dojo Joe's feet from flying about.
 * Free Anchor weight to attach the end of the line to the ground. Hopefully, the weight will slide on the ground before the ceiling bolt fails.
