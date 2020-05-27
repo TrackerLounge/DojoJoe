@@ -68,5 +68,7 @@ I orignially built this for a small 8 x 8 ft apartment space. Ideally the ceilin
 
 !['Image of ceiling hook, pulley and rope suspending dojo joe'](/images/suspendingDojoJoeFromCeiling.png)
 
+!['Image close-up of ceiling hook and pulley'](/images/ceilingHookAndPulley.png)
+
 # Noise
 The pulley can make a squeeking noise. A little oil can reduce the noise. The rope, running thru the pulley can also make noise. If you are living in an apartment complex, the neighbors may hear this and ask you to avoid practice during sleeping hours.
