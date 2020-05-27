@@ -7,7 +7,7 @@ By way of background, I am hobbiest. I initially learned four versions of Tai Ch
 I eventually found a book called Tai Chi Chin Na - The Seizing Art of Tai Chi Chuan by Dr. Yang, Jwing-Ming PhD, 
 [Book on Amazon](https://www.amazon.com/Tai-Chi-Chin-Na-Seizing-ebook/dp/B06XSN17T5/ref=sr_1_1?dchild=1&keywords=Chin+Na+the+seizing+art+of+Tai+chi+chuan+by+Dr.+Yang&qid=1590606941&sr=8-1)
 ISBN-13 : 978-1-59439-307-5, ISBN-10: 1-59439-307-9 which outlines some of the joint lock applications found the Tai Chi Yang Style Form.
-I have no affiliation with Dr. Yang, Jwing-Ming. I have enjoyed his book and would recommend it.
+I have no affiliation with Dr. Yang. I have enjoyed his book and would recommend it.
 
 [![Alt text](https://github.com/TrackerLounge/DojoJoe/blob/master/images/DrYangYouTubeIntro.png)](https://www.youtube.com/watch?v=lf94qpZFOuQ)
 
