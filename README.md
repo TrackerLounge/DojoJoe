@@ -87,6 +87,8 @@ I used 1/4 in. polypropylene braided rope within the chest area. The color helpe
 
 The fingers have deaminum magnets epoxyied onto the fingertips to allow Dojo Joe to grasp my wrist or arm in a breakable grip. In the hand, the paracord is used to retain a metal nut. This nut is a spacer to adjust the grasp of the fingers. The paracord allows the nut to hang out of the way when not needed.
 
+An elatic line runs from each upper arm (hole was placed 1/3 of the way down the humerus, from the shoulder) thru the pelvic bone and attach to the knee joint. The pelvic bone floats freely on the elastic line.
+
 <table>
 <thead>
 <tr>
