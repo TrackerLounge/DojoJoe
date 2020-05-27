@@ -2,7 +2,7 @@
 Tai Chi Chin Na Training Dummy
 
 # Introduction
-By way of background, I am hobbiest. I initially learned a number of Tai Chi forms(two forms of Wu Style, and one Yang Style) from books, as a form of light excersise. I was interested in exploring the application and meaning of the forms. I have no live experience. I live in a remote area, where sparring partners are rare.
+By way of background, I am hobbiest. I initially learned four versions of Tai Chi forms(13-form style, two forms of Wu Style, and one Yang Style), right-handed and left-handed, from books, as a form of light excersise. I was interested in exploring the application and meaning of the forms. I have no live experience. I live in a remote area, where sparring partners are rare.
 
 I eventually found a book called Tai Chi Chin Na - The Seizing Art of Tai Chie Chuan by Dr. Yang, Jwing-Ming PhD, ISBN-13 : 978-1-59439-307-5, ISBN-10: 1-59439-307-9 which outlines some of the joint lock applications found the Tai Chi Yang Style Form.
 I have no affiliation with Dr. Yang, Jwing-Ming. I have enjoyed his book and would recommend it.
@@ -14,9 +14,9 @@ I have no affiliation with Dr. Yang, Jwing-Ming. I have enjoyed his book and wou
 I wanted practice these applications as time allowed early in the morning before work or late at night after work. 
 
 The goal of this project was to create a sparring training dummy to practice joint locks on and memorize/explore the techineques. 
-This was not intended to replace live sparring practice. I also explored the movements in the Wu Style forms to "discover"/understand their mechanics and applications. This helped me appreciate the meaning of the forms more fully and informed how I did the forms.
+This was not intended to replace live sparring practice. I explored the movements in the Tai Chi forms to "discover"/understand their mechanics and applications. This helped me appreciate the meaning of the forms more fully and informed how I did the forms.
 
-This sparring dummy allows me to practice route movements over and over again, with force, at any time of day or night, when a living sparring partner is not available. It also allows me to experiment with variations in the movements, and chaining movements together, and experimenting with transitions. I broke the dummys joints in many ways. It is not uncommon for an arm or leg to be torn free. This also helped me to safely understand the forces involved and applications better. Over time I modified the dummy to break in ways that are fast and easy to repair. All joints are secured as knots that gradually loosen over time under force. To fix a broken joint, I simple retie the knots together again.
+This sparring dummy allows me to practice route movements over and over again, with force, at any time of day or night, when a living sparring partner is not available. I was safely able to repeatedly practice the bending, twisting and jerking forces (think shearing and tearing) on Dojo Joe without fear of inflicting injury. It also allows me to experiment with variations in the movements, and chaining movements together, and experimenting with transitions. I broke the dummys joints in many ways. It is not uncommon for an arm or leg to be torn free. This also helped me to safely understand the forces involved and applications better. Over time I modified the dummy to break in ways that are fast and easy to repair. All joints are secured as knots that gradually loosen over time under force. To fix a broken joint, I simple retie the knots together again.
 
 Over the course of several years, I practiced with this sparring dummy (which I call Dojo Joe) for 30-60 minutes a day. My typical routine was to perform each technique in the book 30 times right handed and then left handed. I memorized the book for a time and became comfortable with the movements. The movements became instinctual. However, this type of training is without pressure testing. As such I considered myself a novice.
 
