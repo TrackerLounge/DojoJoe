@@ -69,6 +69,9 @@ Dojo Joe cost ~$100 to make
 I tried to replicate my own bone structure. I measured my arm to get the length of the PVC pipes to create the ulna and radius and repeated the process for each major bone of the body. I did not create every bone of the body. For example, I did not create ribs. I only have two fingers and a thumb. These simplifications reduced cost and time of construction. The dummy is simple enough that these could be added at a later date as needed.
 
 # Dimentions
+
+<img src='/images/DojoJoeDimentions.png' width=800>
+
 <table>
 <thead>
 <tr>
