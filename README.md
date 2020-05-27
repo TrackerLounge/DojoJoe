@@ -62,7 +62,7 @@ Dojo Joe cost ~$100 to make
 * Shirt and pants to prevent pvc joints from pinching/scratching/cutting me. This can be quite painful. Also helps dummy move correctly
 * 2 Denim bags. I place one bag on each foot and insert a 5 pound weight in each bag to keep Dojo Joe's feet from flying about. Each bag has a paracord draw string and toggle cord stopper. The drawstring allows me to quickly attach the weighted bags to the dummy's feet during setup.
 * Free Anchor weight to attach the end of the line to the ground. Hopefully, the weight will slide on the ground before the ceiling bolt fails.
-* Each foot has two pipes making up the foot. Each foot pipe has a carage bolt and nut passing thru the sole of the foot to the top of the foot to create a small threading knob on the top of the foot. The tibea and fibea bones rest on these bolt thread Knobs to keep them roughly in place around the anckle.
+* Each foot has two pipes making up the foot. Each foot pipe has a 2 in. carage bolt, washer and nut passing thru the sole of the foot to the top of the foot to create a small threading knob on the top of the foot. The tibea and fibea bones rest on these bolt thread Knobs to keep them roughly in place around the anckle.
 
 # Size / Scale
 I tried to replicate my own bone structure. I measured my arm to get the length of the PVC pipes to create the ulna and radius and repeated the process for each major bone of the body. I did not create every bone of the body. For example, I did not create ribs. I only have two fingers and a thumb. These simplifications reduced cost and time of construction. The dummy is simple enough that these could be added at a later date as needed.
