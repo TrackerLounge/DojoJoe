@@ -38,6 +38,7 @@ Dojo Joe cost ~$100 to make
 * High strength magnets (to allow fingers to grasp my wrist)
 * Peanut Butter Plastic container for the head
 * Spray foam (I had some extra outdoor spray foam from a previous project)
+* Shirt and pants to prevent pvc joints from pinching/scratching/cutting me. This can be quite painful.
 * 2 Denim bags. I place one bag on each foot and insert a 5 pound weight in each bag to keep Dojo Joe's feet from flying about.
 * Free Anchor weight to attach the end of the line to the ground. Hopefully, the weight will slide on the ground before the ceiling bolt fails.
 
