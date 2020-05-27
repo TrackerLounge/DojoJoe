@@ -27,6 +27,15 @@ Click Here for Youtube Video:
 # Price
 Dojo Joe cost ~$100 to make
 
+# Tools
+* hack saw
+* measuring tape
+* coordless drill and drill bits 
+* scissors
+* electrical tape to hold elastic cord while fusing
+* ligher to fuse the ends of ropes to prevent fraying
+* magic markert to mark parts
+
 # Construction Materials
 * 3 in. long 1/2 in. thick lag screw hook to attach to ceiling.
 * 1/4 in. metal pully.
@@ -36,6 +45,7 @@ Dojo Joe cost ~$100 to make
 * 1/4 in. elastic cord for joints and part of line to support the sparring partner from the ceiling. 
   * Note: I originally used 100 lb zip ties to attach the joints. However, I found that I would break a joint after 1 to 10 iterations of a joint lock. 
 * High strength magnets (to allow fingers to grasp my wrist)
+* epoxy to attach magnets to end of fingers
 * para-cord to create fingers.
 * 1 in. metal nut (one for each hand). I use the metal nut as a spacer between the magnets when I want to practice upper arm grabs and counters. I don't use the nut when I want the dummy's grip to be smaller (e.g. when grasping my wrist)
 * Peanut Butter Plastic container for the head
