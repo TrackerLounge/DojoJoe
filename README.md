@@ -20,25 +20,3 @@ Many martial arts have similar joint locks and may find some use for this traini
 [![Alt text](https://github.com/TrackerLounge/DojoJoe/blob/master/DojoJoeIntro.png)](https://www.youtube.com/watch?v=8jnbJ8WHzhs)
 
 
-<iframe width="560" height="315" 
-src="https://www.youtube.com/embed/8jnbJ8WHzhs" 
-frameborder="0" 
-allow="accelerometer; 
-autoplay; encrypted-media; 
-gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
-
-https://github.com/TrackerLounge/DojoJoe/blob/master/DojoJoeIntro.png
-
-<div align="center">
-  <a href="https://www.youtube.com/embed/8jnbJ8WHzhs"></a>
-</div>
-
-<div align="center">
-      <a href="https://www.youtube.com/embed/8jnbJ8WHzhs">
-     <img 
-      src="/DojoJoe/blob/master/DojoJoeIntro.png" 
-      alt="Intro to Dojo Joe" 
-      style="width:100%;">
-      </a>
-    </div>
