@@ -63,6 +63,38 @@ It was also very important that I be able to bring the dummy to the ground and h
 
 This was originally built while living in an apartment with 8 foot high ceilings. I used common hand tools and my kitchen table as a vise. This lead to crude and slow construction. The line length had to be modified to fit a higher ceiling in my new place.
 
+# Elastic and Static Rigging of Bone Structure
+
+<table>
+<thead>
+<tr>
+<th>Elastic and Static Rigging of Bone Structure</th>
+<th>Close-up of Elastic and Static Rigging of Bone Structure</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src='/images/elasticAndStaticRiggingOfBoneStructure.png' width=400></td>
+<td><img src='/images/elasticAndStaticRiggingOfBoneStructureCloseup.png' width=400></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th>Elastic and Static Rigging of Arm</th>
+<th>Elastic and Static Rigging of Leg</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src='/images/elasticAndStaticRiggingOfArm.png' width=400></td>
+<td><img src='/images/elasticAndStaticRiggingOfLegs.png' width=400></td>
+</tr>
+</tbody>
+</table>
+
 # Ceiling Mounting
 I orignially built this for a small 8 x 8 ft apartment space. Ideally the ceiling mount would be placed 4 ft from any wall as the dummy's arms can fly out wide while performing certain joint locks and hit walls or you. However, I have mounted it closer to the wall at times (e.g. 2.5 feet away from the wall). This works but is less than ideal. It can make it hard to practice moving behind the dummy and can make noise or damage the wall if a pvc arm hits the wall.
 
