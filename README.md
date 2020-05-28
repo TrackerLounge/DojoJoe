@@ -267,9 +267,15 @@ Once attached, I can move the foot around easily to set up different scenerios. 
 </table>
 
 # Ceiling Mounting
-I orignially built this for a small 8 x 8 ft apartment space. Ideally the ceiling mount would be placed 4 ft from any wall as the dummy's arms can fly out wide while performing certain joint locks and hit walls or you. However, I have mounted it closer to the wall at times (e.g. 2.5 feet away from the wall). This works but is less than ideal. It can make it hard to practice moving behind the dummy and can make noise or damage the wall if a pvc arm hits the wall.
+I orignially built this for a small 8 x 8 ft apartment space with 8 ft. high ceilings. Ideally the ceiling mount would be placed 4 ft from any wall as the dummy's arms can fly out wide while performing certain joint locks and hit walls or you. However, I have mounted it closer to the wall at times (e.g. 2.5 feet away from the wall). This works but is less than ideal. It can make it hard to practice moving behind the dummy and can make noise or damage the wall if a pvc arm hits the wall. 
+
+Be sure that your ceiling joists and your hardware (lag screw hook and pulley) are substantial enough to bear the forces you will be exerting. Make sure that your lag screew hook is long enough. Assume that 1/2 in. of the lagscrew will be in flimsy dry wall. You want a minimum of 3 in. of screw embedded in a joist. More is better. I predrilled a hole (diameter of inner diameter of the lag screw, not including the threading) before hand screwing the lag screw hook into the ceiling.
+
+When I moved to a place with higher ceilings, I added an extension of rope to allow the pulley to hang in about the same spot that it would have hung from when I had 8 ft ceilings. This seems to work fine.
 
 I had to play around with the proportion of static line to elastic line in the overall length of line suspending Dojo Joe from the ceiling. Too much elastic line would make Dojo Joe too compliant and would result in it not standing back up after being taken down to the ground. Too much static line would make Dojo Joe too resistant and would prevent Dojo Joe from being able to be taken to the ground in a joint lock.
+
+I don't love having a ground anchor. I have thought to run the line from the pulley to a wall hook to act as the anchor. However, I do like that the ground anchor will move under load first before the ceiling lag screw would fail. It feels a little safer. This does mean that periodically I have to reset the achor weight as it has a tendency to slid towards Dojo Joe and loosen the tension on the suspension line over time. The anchor line is a little more in the way at times. Most of the time these are trivial annoyances.
 
 <table>
 <thead>
