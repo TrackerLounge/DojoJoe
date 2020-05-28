@@ -226,6 +226,9 @@ An elatic line runs from each upper arm (hole was placed 1/3 of the way down the
 </tbody>
 </table>
 
+The tibia and fibula pvc pipes rest on the foot pvc pipes about a 1/4 of the length of the foot from the back. I have shock cord attached to the tibia and fibula that run down towards the front and back of the foot. This allows me to practice ankle joint locks.
+However, I found that the tibia and fibula slipped along the foot pvc pipes too easily and did not retain a natural posture. 
+To prevent the tibia and fibula from sliding around, I drilled holes in the feet and pasted two 2 in. cariage bolts from the bottom up and secured them with a washer and nut. This gave the tibia and fibula something to sit on and prevent them from sliding around on the foot. It isn't perfect but seems to work "good enough" most of the time. You can see one of the bolts exposed in the top view picture.
 <table>
 <thead>
 <tr>
