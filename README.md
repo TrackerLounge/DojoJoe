@@ -177,7 +177,7 @@ I used 1/4 in. polypropylene braided rope within the chest area. The color helpe
 </tbody>
 </table>
 
-The rigging within the chest tries to mirror the behavior of the trapezius muscles of the back. We want rigidity in some directions and flexibility in others. I found that in most cases for the Chin Na movements, it was helpful if Dojo Joe resisted having the arm raised above the head and resisted having the arm turned out to the side. This was an process of experimentation. It isn't perfect and I may revisit again but for now it is "good enough". You may need to experiment to figure out what makes sense for your training needs. 
+The rigging within the chest tries to mirror the behavior of the trapezius muscles of the back. We want rigidity in some directions and flexibility in others. I found that in most cases for the Chin Na movements, it was helpful if Dojo Joe resisted having the arm raised above the head and resisted having the arm turned out to the side. It was preferable to have Dojo Joe want to pull its elbows tighly to its sides. This was an process of experimentation. It isn't perfect and I may revisit again but for now it is "good enough". You may need to experiment to figure out what makes sense for your training needs. 
 <table>
 <thead>
 <tr>
