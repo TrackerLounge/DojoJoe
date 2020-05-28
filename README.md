@@ -295,7 +295,8 @@ I don't love having a ground anchor. I have thought to run the line from the pul
 <img src='/images/DojoJoeSupportLineLengths.png' width=800>
 
 Note: The head is free-floating on the neck. There is a 1/2 in. pvc core in the head to protect the foam in the head from the line.
+
 <img src='/images/headFoamAndPvcCore.png' width=800>
 
 # Noise
-The pulley can make a squeeking noise. A little oil can reduce the noise. The rope, running thru the pulley can also make noise. If you are living in an apartment complex, the neighbors may hear this and ask you to avoid practice during sleeping hours.
+The pulley can make a squeeking noise. A little oil can reduce the noise. The rope, running thru the pulley can also make noise. Jodo Joe's bones are hollow and can create a clattering sound as they strike together. This noise could be reduced by filling each pipe with foam (but it seems like a mess and a hassel). If you are living in an apartment complex, the neighbors may hear this and ask you to avoid practice during sleeping hours.
