@@ -247,6 +247,23 @@ To prevent the tibia and fibula from sliding around, I drilled holes in the feet
 </tbody>
 </table>
 
+I found that the Dojo Joe worked better if its feet were weighted. This counteracts the upward springy pull from the ceiling. This keeps the dummy in place and makes body mechanics feel more natural. Originally I used paracord to connect a 2 lb and 3 lb weight (for a total of 5 lbs per foot) to each foot. I found this annoying and ended up sewing some bags out of an old pair of jeans to place the weights and foot in. This isn't perfect but it worked much better. Perhaps in future, I will cast some lead soles for the feet and bolt them in place.
+
+<table>
+<thead>
+<tr>
+<th>Foot Bag and Weights</th>
+<th>Foot Bag on Foot</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src='/images/footBagAndWeight.png' width=400></td>
+<td><img src='/images/footbagOnFoot.png' width=400></td>
+</tr>
+</tbody>
+</table>
+
 # Ceiling Mounting
 I orignially built this for a small 8 x 8 ft apartment space. Ideally the ceiling mount would be placed 4 ft from any wall as the dummy's arms can fly out wide while performing certain joint locks and hit walls or you. However, I have mounted it closer to the wall at times (e.g. 2.5 feet away from the wall). This works but is less than ideal. It can make it hard to practice moving behind the dummy and can make noise or damage the wall if a pvc arm hits the wall.
 
