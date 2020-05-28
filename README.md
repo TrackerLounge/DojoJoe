@@ -247,7 +247,9 @@ To prevent the tibia and fibula from sliding around, I drilled holes in the feet
 </tbody>
 </table>
 
-I found that the Dojo Joe worked better if its feet were weighted. This counteracts the upward springy pull from the ceiling. This keeps the dummy in place and makes body mechanics feel more natural. Originally I used paracord to connect a 2 lb and 3 lb weight (for a total of 5 lbs per foot) to each foot. I found this annoying and ended up sewing some bags out of an old pair of jeans to place the weights and foot in. This isn't perfect but it worked much better. Perhaps in future, I will cast some lead soles for the feet and bolt them in place.
+I found that the Dojo Joe worked better if its feet were weighted. This counteracts the upward springy pull from the ceiling. This keeps the dummy in place and makes body mechanics feel more natural. Originally I used paracord to connect a 2 lb and 3 lb weight (for a total of 5 lbs per foot) to each foot. I found this annoying and ended up sewing some bags out of an old pair of jeans to place the weights and foot in. Each bag has a draw string to make attachment fast and easy. This isn't perfect but it worked much better. Perhaps in future, I will cast some lead soles for the feet and bolt them in place.
+
+Once attached, I can move the foot around easily to set up different scenerios. The feet do move as I perform joint locks and take Dojo Joe to the ground. Depending on the joint-lock, I may need to reset the feet after each iteration. 
 
 <table>
 <thead>
