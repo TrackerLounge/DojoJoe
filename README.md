@@ -31,6 +31,7 @@ Click Here for Youtube Video:
 
 # Price
 Dojo Joe cost ~$100 to make
+The elastic shock cord was the most expensive portion of this build. I bought it by the foot from a hardware store.
 
 # Tools
 * hack saw
