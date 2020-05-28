@@ -109,6 +109,10 @@ I tried to replicate my own bone structure. I measured my arm to get the length 
 <td>1 pvc pipe with 3/4 in. diameter and 2 and 1/8 in. length</td>
 </tr>
 <tr>
+<td>Head</td>
+<td>The head was made from a 7.5 in. tall plastic peanut butter container from Costco. The head contains a 7.5 in. pvc pipe to allow the suspension line to pass thru down into the neck, shoulders, spine and pelvis. The head is filled with outdoor sprayfoam. The pvc pipe protects the foam from movement of the head on the suspension line. The foam protects the head from being crushed in head stricks, neck and head pushes or pulls to extend a joint stretch, or head locks/chocking motions.</td>
+</tr>
+<tr>
 <td>Upper Arm (Humerus)</td>
 <td>Each humerus has 1 pvc pipe with 3/4 in. diameter and 10 and 1/2 in. length</td>
 </tr>
