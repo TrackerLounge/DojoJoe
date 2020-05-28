@@ -36,7 +36,7 @@ The elastic shock cord was the most expensive portion of this build. I bought it
 # Tools
 * hack saw
 * measuring tape
-* coordless drill and 5/16 in. drill bits 
+* coordless drill and 5/16 in. drill bit and 1/2 in. drill bit (I think) to predrill lag screw ceiling hook
 * scissors
 * electrical tape to hold elastic cord while fusing
 * ligher to fuse the ends of ropes to prevent fraying
@@ -47,7 +47,7 @@ The elastic shock cord was the most expensive portion of this build. I bought it
 
 
 # Construction Materials
-* 3 in. long 1/2 in. thick lag screw hook to attach to ceiling.
+* 3.5 in. long 1/2 in. thick lag screw hook to attach to ceiling. The threaded shank should be 3.5 in. in length or greater. Assume that he first 0.5 in. of thread will be in non-load bearing dry wall. For safety, you want as much threaded screw in the joist as possible.
 * 1/4 in. metal pully.
 * 3/4 in. and 1/2 in. PVC Pipe for bones
 * 1/4 in. PVC for the core of the head to allow rope to pass thru
@@ -269,7 +269,7 @@ Once attached, I can move the foot around easily to set up different scenerios. 
 # Ceiling Mounting
 I orignially built this for a small 8 x 8 ft apartment space with 8 ft. high ceilings. Ideally the ceiling mount would be placed 4 ft from any wall as the dummy's arms can fly out wide while performing certain joint locks and hit walls or you. However, I have mounted it closer to the wall at times (e.g. 2.5 feet away from the wall). This works but is less than ideal. It can make it hard to practice moving behind the dummy and can make noise or damage the wall if a pvc arm hits the wall. 
 
-Be sure that your ceiling joists and your hardware (lag screw hook and pulley) are substantial enough to bear the forces you will be exerting. Make sure that your lag screew hook is long enough. Assume that 1/2 in. of the lagscrew will be in flimsy dry wall. You want a minimum of 3 in. of screw embedded in a joist. More is better. I predrilled a hole (diameter of inner diameter of the lag screw, not including the threading) before hand screwing the lag screw hook into the ceiling.
+Be sure that your ceiling joists and your hardware (lag screw hook and pulley) are substantial enough to bear the forces you will be exerting. Make sure that your lag screew hook is long enough. Assume that 1/2 in. of the lagscrew will be in flimsy dry wall. You want a minimum of 3 in. of screw embedded in a joist. More is better. I predrilled a hole (diameter of inner diameter of the lag screw, not including the threading - I think I used a 1/2 in. drill bit) before hand screwing the lag screw hook into the ceiling.
 
 When I moved to a place with higher ceilings, I added an extension of rope to allow the pulley to hang in about the same spot that it would have hung from when I had 8 ft ceilings. This seems to work fine.
 
