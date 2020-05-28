@@ -180,7 +180,7 @@ I used 1/4 in. polypropylene braided rope within the chest area. The color helpe
 
 The rigging within the chest tries to mirror the behavior of the trapezius muscles of the back. We want rigidity in some directions and flexibility in others. I found that in most cases for the Chin Na movements, it was helpful if Dojo Joe resisted having the arm raised above the head and resisted having the arm turned out to the side. It was preferable to have Dojo Joe want to pull its elbows tighly to its sides. This was an process of experimentation. It isn't perfect and I may revisit again but for now it is "good enough". You may need to experiment to figure out what makes sense for your training needs. 
 
-I used a 5/16 in. drill bit to create holes in the pvc pipes. The orientation of these homes can effect posture of the dummy at rest. A hole should be drilled in line with the force of direction. otherwise, when the elastic line is attached and exerting tension, a misaligned hole will cause the pvc pipe "bone" to roll/turn until the hole is in alignment with the direcion of tension. A bad hole may result in the arm turning in towards the body more than you want or turning out away from the body more than you want. 
+I used a 5/16 in. drill bit to create holes in the pvc pipes. The orientation of these holes can effect posture of the dummy at rest. A hole should be drilled in line with the force of direction. otherwise, when the elastic line is attached and exerting tension, a misaligned hole will cause the pvc pipe "bone" to roll/turn until the hole is in alignment with the direcion of tension. A bad hole alignment may result in the arm turning in towards the body more than you want or turning out away from the body more than you want. 
 
 <table>
 <thead>
