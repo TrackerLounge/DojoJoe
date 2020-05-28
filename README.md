@@ -47,7 +47,7 @@ The elastic shock cord was the most expensive portion of this build. I bought it
 
 
 # Construction Materials
-* 3.5 in. long 1/2 in. thick lag screw hook to attach to ceiling. The threaded shank should be 3.5 in. in length or greater. Assume that he first 0.5 in. of thread will be in non-load bearing dry wall. For safety, you want as much threaded screw in the joist as possible.
+* 3.5 in. long 1/2 in. thick lag screw hook to attach to ceiling. The threaded shank should be 3.5 in. in length or greater. Assume that the first 0.5 in. of threading will be in non-load bearing dry wall. For safety, you want as much threaded screw (3 in. or more) in the joist as possible.
 * 1/4 in. metal pully.
 * 3/4 in. and 1/2 in. PVC Pipe for bones
 * 1/4 in. PVC for the core of the head to allow rope to pass thru
