@@ -203,6 +203,8 @@ The fingers have deaminum magnets epoxyied onto the fingertips to allow Dojo Joe
 
 An elatic line runs from each upper arm (hole was placed 1/3 of the way down the humerus, from the shoulder) thru the pelvic bone and attach to the knee joint. The pelvic bone floats freely on the elastic line.
 
+<img src='/images/DojoJoeDrillHolesForLowerArmAndHand.png' width=800>
+
 <table>
 <thead>
 <tr>
