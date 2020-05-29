@@ -13,7 +13,7 @@ I have no affiliation with Dr. Yang. I have enjoyed his book and would recommend
 
 [![Alt text](https://github.com/TrackerLounge/DojoJoe/blob/master/images/DrYangYouTubeReverseElbowWrap.png)](https://www.youtube.com/watch?v=kp2jWeaKrqI)
 
-I wanted practice these applications as time allowed early in the morning before work or late at night after work. 
+I wanted to practice these applications, as time allowed, early in the morning, before work, or late at night, after work. 
 
 The goal of this project was to create a sparring training dummy to practice joint locks on and memorize/explore the techineques. 
 This was not intended to replace live sparring practice. I explored the movements in the Tai Chi forms to "discover"/understand their mechanics and applications. This helped me appreciate the meaning of the forms more fully and informed how I did the forms.
