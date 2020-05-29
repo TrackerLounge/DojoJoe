@@ -184,6 +184,8 @@ I used a 5/16 in. drill bit to create holes in the pvc pipes. The orientation of
 
 <img src='/images/DojoJoeDrillHoles.png' width=800>
 
+Note: I used some white braided cord on the shoulders to create a loop to hang dojo joe by in the closet on two coat hangers when not in use. 
+
 <table>
 <thead>
 <tr>
