@@ -2,7 +2,7 @@
 Tai Chi Chin Na Training Dummy
 
 # Introduction
-By way of background, I am hobbiest. I initially learned four versions of Tai Chi forms(13-form style, two forms of Wu Style, and one Yang Style), right-handed and left-handed, from books, as a form of light excersise. I was interested in exploring the application and meaning of the forms. I have no live experience. I live in a remote area, where sparring partners are rare.
+By way of background, I am a hobbiest. I initially learned four versions of Tai Chi forms(13-form style, two forms of Wu Style, and one Yang Style), right-handed and left-handed, from books, as a form of light excersise. I was interested in exploring the application and meaning of the forms. I have no live experience. I live in a remote area, where sparring partners are rare.
 
 I eventually found a book called Tai Chi Chin Na - The Seizing Art of Tai Chi Chuan by Dr. Yang, Jwing-Ming PhD, 
 [Book on Amazon](https://www.amazon.com/Tai-Chi-Chin-Na-Seizing-ebook/dp/B06XSN17T5/ref=sr_1_1?dchild=1&keywords=Chin+Na+the+seizing+art+of+Tai+chi+chuan+by+Dr.+Yang&qid=1590606941&sr=8-1)
