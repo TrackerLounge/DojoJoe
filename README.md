@@ -182,6 +182,8 @@ The rigging within the chest tries to mirror the behavior of the trapezius muscl
 
 I used a 5/16 in. drill bit to create holes in the pvc pipes. The orientation of these holes can effect posture of the dummy at rest. A hole should be drilled in line with the force of direction. otherwise, when the elastic line is attached and exerting tension, a misaligned hole will cause the pvc pipe "bone" to roll/turn until the hole is in alignment with the direcion of tension. A bad hole alignment may result in the arm turning in towards the body more than you want or turning out away from the body more than you want. 
 
+<img src='/images/DojoJoeDrillHoles.png' width=800>
+
 <table>
 <thead>
 <tr>
