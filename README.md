@@ -41,7 +41,7 @@ The elastic shock cord was the most expensive portion of this build. I bought it
 * electrical tape to hold elastic cord while fusing
 * ligher to fuse the ends of ropes to prevent fraying
 * magic markert to mark parts
-* vice or clamp to hold parts while sawing (if available)
+* vice or clamp to hold parts while sawing (if available) - I did no have a vise or clamp. I ended up using my kitchen table (spreading the leaves apart and smashing my part betwee the leaves).
 * metal file or sandpaper to debur/sand ends of pvc
 * flathead screw driver to ream out dill hole burs and force elastic thru drilled holes.
 
