@@ -220,6 +220,10 @@ An elatic line runs from each upper arm (hole was placed 1/3 of the way down the
 </tbody>
 </table>
 
+The pelvis is attached to the femur with paracord at present. I haven't needed very realistic hip joints so these are very simple. At times I wanted more complexity here but haven't taken the time to implement them. I think I might need a more 3D rib-cage to get the joint to function correctly.
+
+In the image, the knees are not built the same. I've broken the knee joints many times and was not always careful in my reconstruction of the knee. Sometimes I have the femur in front, and sometimes I have it in back of the knee cap. I prefer it to be in front of the knee cap like it is on the right leg (left side of the image).
+
 <table>
 <thead>
 <tr>
