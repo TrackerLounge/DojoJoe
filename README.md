@@ -147,7 +147,7 @@ I tried to replicate my own bone structure. I measured my arm to get the length 
 </tr>
 <tr>
 <td>Thumb tip - (Distal Phalanx)</td>
-<td>Each hand has 1 pvc pipe with 1/2 in. diameter and 1 and 1/2 in. length.</td>
+<td>Each hand has 1 pvc pipe with 1/2 in. diameter and 1 and 1/2 in. length. Magnet is epoxied to tip.</td>
 </tr>
 </tbody>
 </table>
