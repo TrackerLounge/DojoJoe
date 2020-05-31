@@ -8,12 +8,14 @@ I eventually found a book called:
 Tai Chi Chin Na - The Seizing Art of Tai Chi Chuan by Dr. Yang, Jwing-Ming PhD, 
 [Book on Amazon](https://www.amazon.com/Tai-Chi-Chin-Na-Seizing-ebook/dp/B06XSN17T5/ref=sr_1_1?dchild=1&keywords=Chin+Na+the+seizing+art+of+Tai+chi+chuan+by+Dr.+Yang&qid=1590606941&sr=8-1)
 ISBN-13 : 978-1-59439-307-5, ISBN-10: 1-59439-307-9 which outlines some of the joint lock applications found the Tai Chi Yang Style Form.
-And
+And a second book:
 Analysis of Shaolin Chin Na - Instructor's Manual for All Martial Styles - The Art of Seize and Control 2nd Edition by Dr. Yang, Jwing-Ming PhD,- ISBN-13: 978-1-59439-000-5 - ISBN-10: 1-59439-000-2
 [Book on Amazon](https://www.amazon.com/Analysis-Shaolin-Chin-Na-Instructors/dp/1594390002/ref=sr_1_1?crid=3PL69FXY7HX55&dchild=1&keywords=analysis+of+shaolin+chin+na&qid=1590950200&sprefix=Anaylsis+of+Sha%2Caps%2C232&sr=8-1)
-I spent most of my time in the first book - Tai Chi Chin Na. There is more than enough in one book to keep be busy doing drills.
+
+Admittedly, I have spent most of my time in the first book - Tai Chi Chin Na. There is only so much time to practice and there is more than enough in one book to keep me busy doing drills.
+
 I have no affiliation with Dr. Yang. I have enjoyed his books and would recommend them.
-I can also recommend his book - 
+
 
 [![Alt text](https://github.com/TrackerLounge/DojoJoe/blob/master/images/DrYangYouTubeIntro.png)](https://www.youtube.com/watch?v=lf94qpZFOuQ)
 
