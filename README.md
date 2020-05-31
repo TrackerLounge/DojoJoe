@@ -4,10 +4,16 @@ Tai Chi Chin Na Training Dummy
 # Introduction
 By way of background, I am a hobbiest. I initially learned four versions of Tai Chi forms(13-form style, two forms of Wu Style, and one Yang Style), right-handed and left-handed, from books, as a form of light excersise. I was interested in exploring the application and meaning of the forms. I have no live experience. I live in a remote area, where sparring partners are rare.
 
-I eventually found a book called Tai Chi Chin Na - The Seizing Art of Tai Chi Chuan by Dr. Yang, Jwing-Ming PhD, 
+I eventually found a book called:
+Tai Chi Chin Na - The Seizing Art of Tai Chi Chuan by Dr. Yang, Jwing-Ming PhD, 
 [Book on Amazon](https://www.amazon.com/Tai-Chi-Chin-Na-Seizing-ebook/dp/B06XSN17T5/ref=sr_1_1?dchild=1&keywords=Chin+Na+the+seizing+art+of+Tai+chi+chuan+by+Dr.+Yang&qid=1590606941&sr=8-1)
 ISBN-13 : 978-1-59439-307-5, ISBN-10: 1-59439-307-9 which outlines some of the joint lock applications found the Tai Chi Yang Style Form.
-I have no affiliation with Dr. Yang. I have enjoyed his book and would recommend it.
+And
+Analysis of Shaolin Chin Na - Instructor's Manual for All Martial Styles - The Art of Seize and Control 2nd Edition by Dr. Yang, Jwing-Ming PhD,- ISBN-13: 978-1-59439-000-5 - ISBN-10: 1-59439-000-2
+[Book on Amazon](https://www.amazon.com/Analysis-Shaolin-Chin-Na-Instructors/dp/1594390002/ref=sr_1_1?crid=3PL69FXY7HX55&dchild=1&keywords=analysis+of+shaolin+chin+na&qid=1590950200&sprefix=Anaylsis+of+Sha%2Caps%2C232&sr=8-1)
+I spent most of my time in the first book - Tai Chi Chin Na. There is more than enough in one book to keep be busy doing drills.
+I have no affiliation with Dr. Yang. I have enjoyed his books and would recommend them.
+I can also recommend his book - 
 
 [![Alt text](https://github.com/TrackerLounge/DojoJoe/blob/master/images/DrYangYouTubeIntro.png)](https://www.youtube.com/watch?v=lf94qpZFOuQ)
 
